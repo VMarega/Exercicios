@@ -2,4 +2,4 @@
 
 <p> exercícios desenvolvidos durante o curso do professor Guanabara. <p>
 
-<a src="https://www.cursoemvideo.com/"> Curso em vídeo <a>
+<a src="https://www.cursoemvideo.com/"> <a>
